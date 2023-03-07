@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cgpa-convertor/static/css/main.78ec483e.css",
+    "main.js": "/cgpa-convertor/static/js/main.2510e141.js",
+    "index.html": "/cgpa-convertor/index.html",
+    "main.78ec483e.css.map": "/cgpa-convertor/static/css/main.78ec483e.css.map",
+    "main.2510e141.js.map": "/cgpa-convertor/static/js/main.2510e141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ec483e.css",
+    "static/js/main.2510e141.js"
+  ]
+}
